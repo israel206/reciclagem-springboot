@@ -40,8 +40,6 @@ Clone the project and access the folder
 
 ## 💻 Project
 
-App to always remember to water your plants 🌱
-
 API under development, using the Hibernate database with mysql
 
 ---
